@@ -2,12 +2,11 @@
 # Paras Sakarwal 
 Hi there 👋, I'm Paras, and I'm a frontend web developer with a passion for learning new technologies and building user-friendly, performant web applications. I'm currently learning Next.js, and I'm always looking for new opportunities to challenge myself and grow.
 
-  🌍  I'm based in India
-  🖥️  See my portfolio at [#MyPorfolio](http://https://peaceful-torte-a59e0d.netlify.app/)
-  ✉️  You can contact me at [parassakarwal@gmail.com](mailto:parassakarwal@gmail.com)
-  🧠  I'm learning NEXT.JS
-  🤝 I’m eager to collaborate on amazing projects as a frontend developer. I aspire to learn new skills and grow in this domain.
-
+  * 🌍  I'm based in India
+  * 🖥️  See my portfolio at [#MyPorfolio](http://https://peaceful-torte-a59e0d.netlify.app/)
+  * ✉️  You can contact me at [parassakarwal@gmail.com](mailto:parassakarwal@gmail.com)
+  * 🧠  I'm learning NEXT.JS
+  * 🤝 I’m eager to collaborate on amazing projects as a frontend developer. I aspire to learn new skills and grow in this domain.
 
 
   ## 💻 Skills:
@@ -32,7 +31,7 @@ Hi there 👋, I'm Paras, and I'm a frontend web developer with a passion for le
 </p>
 
   
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=13paras&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)](https://github.com/13paras)
 
 ---
