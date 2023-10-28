@@ -1,6 +1,6 @@
 ### 
 # Paras Sakarwal 
-Hi there 👋, I'm Paras, and I'm a frontend web developer with a passion for learning new technologies and building user-friendly, performant web applications. I'm currently learning Next.js, and I'm always looking for new opportunities to challenge myself and grow.
+Hi there 👋, I'm Paras, and I'm a frontend web developer with a passion for learning new technologies and building user-friendly, performant web applications. I'm always looking for new opportunities to challenge myself and grow.
 
   * 🌍  I'm based in India
   * 🖥️  See my portfolio at [#MyPorfolio](http://https://peaceful-torte-a59e0d.netlify.app/)
