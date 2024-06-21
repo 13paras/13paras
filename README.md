@@ -3,7 +3,7 @@
 Hi there 👋, I'm Paras, and I'm a web developer with a passion for learning new technologies and building user-friendly, performant web applications. I'm always looking for new opportunities to challenge myself and grow.
 
   * 🌍  I'm based in India
-  * 🖥️  See my portfolio at [#MyPorfolio](http://https://peaceful-torte-a59e0d.netlify.app/)
+  * 🖥️  See my portfolio at [#MyPorfolio](https://peaceful-torte-a59e0d.netlify.app/)
   * ✉️  You can contact me at [parassakarwal@gmail.com](mailto:parassakarwal@gmail.com)
   * 🧠  Embarking on a journey to conquer Node.js, while continuing to master the realm of React.js! 
   * 🤝  I’m eager to collaborate on amazing projects as a frontend developer. I aspire to learn new skills and grow in this domain.
