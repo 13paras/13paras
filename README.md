@@ -1,12 +1,11 @@
 ### 
 # Paras Sakarwal 
-Hi there 👋, I'm Paras, and I'm a web developer with a passion for learning new technologies and building user-friendly, performant web applications. I'm always looking for new opportunities to challenge myself and grow.
+# Hi, I'm Paras 👋
+**Software Developer | India 🇮🇳**
 
-  * 🌍  I'm based in India
-  * 🖥️  See my portfolio at [#MyPorfolio](https://parassakarwal.vercel.app/)
-  * ✉️  You can contact me at [parassakarwal@gmail.com](mailto:parassakarwal@gmail.com)
-  * 🧠  Embarking on a journey to become master of FullStack! 
-  * 🤝  I’m eager to collaborate on amazing projects as a frontend developer. I aspire to learn new skills and grow in this domain.
+Focused on crafting robust software and seamless user experiences.
+
+[Portfolio](https://parassakarwal.vercel.app/) • [Email](mailto:parassakarwal@gmail.com)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,express,nodejs,mongodb,postgres,prisma,redux,appwrite,firebase,redis,py)](https://skillicons.dev)
