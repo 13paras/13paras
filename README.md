@@ -1,9 +1,6 @@
 ### 
-# Paras Sakarwal 
-# Hi, I'm Paras 👋
-**Software Developer | India 🇮🇳**
 
-Focused on crafting robust software and seamless user experiences.
+Hi, I'm Paras 👋, a software developer focused on crafting robust software and seamless user experiences.
 
 [Portfolio](https://parassakarwal.vercel.app/) • [Email](mailto:parassakarwal@gmail.com)
 
